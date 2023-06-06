@@ -1,0 +1,2 @@
+/kaggle/input/binder-datasets/ocr/images/invoice.png
+/kaggle/input/binder-datasets/ocr/images/letter.jpg
