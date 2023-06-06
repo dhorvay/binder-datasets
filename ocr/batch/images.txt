@@ -1,0 +1,2 @@
+../../../binder-datasets/ocr/images/invoice.png
+../../../binder-datasets/ocr/images/letter.jpg
